@@ -18,19 +18,5 @@
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"139.177.206.143","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Japan","country":"Japan","image":"japan","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":3, "file":3, "city":"Russia","country":"Russia","image":"russia","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":4, "file":4, "city":"Southkorea","country":"Southkorea","image":"southkorea","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":5, "file":5, "city":"Thailand","country":"Thailand","image":"thailand","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":6, "file":6, "city":"Unitedkingdom","country":"Unitedkingdom","image":"unitedkingdom","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":7, "file":7, "city":"France","country":"France","image":"france","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":8, "file":8, "city":"Germany","country":"Germany","image":"germany","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":9, "file":9, "city":"Canada","country":"Canada","image":"canada","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":10, "file":10, "city":"Netherlands","country":"Netherlands","image":"netherlands","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":11, "file":11, "city":"Spain","country":"Spain","image":"spain","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":12, "file":12, "city":"Finland","country":"Finland","image":"finland","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":13, "file":13, "city":"Poland","country":"Poland","image":"poland","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":14, "file":14, "city":"Australia","country":"Australia","image":"australia","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":15, "file":15, "city":"Italy","country":"Italy","image":"italy","ip":"139.162.57.244","active":"true","signal":"a"},
   ]
 }
