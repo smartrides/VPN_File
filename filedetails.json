@@ -224,7 +224,9 @@ a497abc43e5f18c623839efdd1c9f544
 d6e911f6b85b4a31056a975ca395d82c
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
-     {"id":2,"file":"dev tun
+     {"id":2,"file":"
+client
+dev tun
 proto udp
 remote 94.73.34.230 2963
 cipher AES-128-CBC
