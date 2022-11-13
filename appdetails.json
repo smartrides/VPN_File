@@ -18,11 +18,11 @@
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"139.177.206.143","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"139.162.57.244","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Spain","country":"Spain","image":"spain","ip":"94.73.34.230","active":"true","signal":"b"},
-    {"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.170","active":"true","signal":"b"},
-    {"id":4, "file":4, "city":"Southkorea","country":"Southkorea","image":"southkorea","ip":"59.15.139.122","active":"true","signal":"b"},
-    {"id":5, "file":5, "city":"New Zealand","country":"New Zealand","image":"australia","ip":"203.118.144.40","active":"true","signal":"b"},
-    {"id":6, "file":6, "city":"Brazil","country":"Brazil","image":"brazil","ip":"189.106.57.187","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Spain","country":"Spain","image":"spain","ip":"94.73.34.230","active":"true","signal":"c"},
+    {"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.170","active":"true","signal":"c"},
+    {"id":4, "file":4, "city":"Southkorea","country":"Southkorea","image":"southkorea","ip":"59.15.139.122","active":"true","signal":"c"},
+    {"id":5, "file":5, "city":"New Zealand","country":"New Zealand","image":"australia","ip":"203.118.144.40","active":"true","signal":"c"},
+    {"id":6, "file":6, "city":"Brazil","country":"Brazil","image":"brazil","ip":"189.106.57.187","active":"true","signal":"c"},
     {"id":7, "file":7, "city":"Japan","country":"Japan","image":"japan","ip":"172.104.91.86","active":"true","signal":"a"},
   ]
 }
