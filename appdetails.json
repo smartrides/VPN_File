@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States - NY","image":"unitedstates","ip":"167.172.242.70","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"United States - NY","country":"United States","image":"unitedstates","ip":"167.172.242.70","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"139.162.57.244","active":"true","signal":"a"},
     //{"id":2, "file":2, "city":"Spain","country":"Spain","image":"spain","ip":"94.73.34.230","active":"true","signal":"d"},
     //{"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.170","active":"true","signal":"d"},
