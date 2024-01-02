@@ -18,7 +18,7 @@
   "free":[
     {"id":0, "file":0, "city":"United States - Long Beach","country":"United States","image":"unitedstates","ip":"47.33.79.75","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Singapore","country":"Singapore","image":"singapore","ip":"172.104.182.142","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Bangkok","country":"Thailand","image":"thailand","ip":"th-bkk.prod.surfshark.com","active":"true","signal":"a"},
+    {"id":2, "file":8, "city":"Bangkok","country":"Thailand","image":"thailand","ip":"th-bkk.prod.surfshark.com","active":"true","signal":"a"},
     //{"id":2, "file":2, "city":"Spain","country":"Spain","image":"spain","ip":"94.73.34.230","active":"true","signal":"d"},
     //{"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.170","active":"true","signal":"d"},
     //{"id":4, "file":4, "city":"Southkorea","country":"Southkorea","image":"southkorea","ip":"59.15.139.122","active":"true","signal":"d"},
